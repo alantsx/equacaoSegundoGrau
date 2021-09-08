@@ -89,7 +89,7 @@ private static double calculaDelta(double a, double b, double c) throws EquacaoE
 ## 2. Other important structures 🧩
 
 ### 2.1 Loops
-In order to assure that the user is able to correct his input, I wraped the whole Try/Catch in a Do/While infinite loop. If the loop is successful, it will break it and finish the program.
+In order to assure that the user is able to correct their input, I wraped the whole Try/Catch in a Do/While infinite loop. If the loop is successful, it will break it and finish the program.
 
 ```Java
  do {

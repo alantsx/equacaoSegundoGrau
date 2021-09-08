@@ -123,6 +123,6 @@ public class EquacaoException extends Exception {
 ## 3. That's it!
 Although the project is quite simple, it uses important concepts from Java and also for Programming in a whole. Be able to treat errors through exceptions is an essential part of good software engineering.
 
-I hope this ReadMe find use for you in some way and I appreciate if you read this far!
+I hope this ReadMe finds use for you in some way and I appreciate if you read this far!
 
-Also, if you want to try the program for yourself, just clone the repository and run main class in console,
+Also, if you want to try the program for yourself, just clone the repository and run main class in console.

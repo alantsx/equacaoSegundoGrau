@@ -71,7 +71,7 @@ private static String calculaSegundoGrau(double a, double b, double c) throws Eq
 }
 ```
 
-On the first line, I created a _DecimalFormat_ so I could return the number formatted as my desired pattern.
+On the first line, I created a _DecimalFormat_ so I could return the number formatted as my desired pattern using 2 decimal cases only.
 
 Note that one of the first steps from this method is to call another method named _calculaDelta_. calculaDelta is responsible to check if __Δ__ value _(b² -4ac)_ is lower than zero. If so, the equation doesn't admit real solution and throws another EquacaoException:
 
